@@ -41,7 +41,7 @@ build_runner: ^2.4.13
 
 ## Folder Structure
 lib/
-├── main.dart                 # Entry point of the application
+├── main.dart                 # Entry point of the application \n
 ├── models/                   # Data models (e.g., Task model)
 │   ├── task.dart
 ├── providers/                # Riverpod state management files
